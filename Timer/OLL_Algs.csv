@@ -1,0 +1,563 @@
+1,R U B' R B R2 U' R' F R F'
+1,R U' R2 D' r U' r' D R2 U R'
+1,r U R' U R' r2 U' R' U R' r2 U2 r'
+1,R U B' l U l' R' U' R' F R F'
+1,r' U2 r2 R' U R' U' r2 R' U R' U r
+1,L' U2 L2 F' L' F U2 L F' L' F
+1,r' U' R U' r2 R U R U' r2 R U2 r
+1,l F U' R U l' R' U' R' F R F'
+1,R U B' R B R2 U' R' F R F' R R'
+1,r U2 r2 R U' R U r2 R U' R U' r'
+2,r U r' U2 R U2 R' U2 r U' r'
+2,R' U2 r U' r' U2 r U r' U2 R
+2,F R U r' U' R U R' M' U' F'
+2,R U' R2 D' r U r' D R2 U R'
+2,R' U2 L F' L' U2 L F L' U2 R
+2,r U R' U2 R U2 r' U2 r U' r'
+2,r' U' R U2 R' U2 r U2 r' U r
+2,L U2 l' U l U2 l' U' l U2 L'
+2,F R U R' U' F' U2 F U R U' R' F'
+2,F R' F' R U2 F R' F' R2 U2 R'
+2,F R U' R' F R U' R' U2 R U R' F' R U R' F'
+2,R' U R2 D r' U' r D' R2 U' R
+3,r' R2 U R' U r U2 r' U M'
+3,r' R U R' F2 R U L' U L M'
+3,F U R U' R' F' U F R U R' U' F'
+3,r U2 R' U' R U' r' U r' U' R U' R' U2 r
+3,M U l' U2 l U L' U L M'
+3,M U R' F2 R U L' U L2 l'
+3,f R U R' U' f' R' F' U' F U R
+3,M' U r' U2 r U R' U R2 r'
+3,f R U R' U' f' R' F' U' F U R
+3,F R U R' U' F' R U R' F' U2 F R U R'
+3,M R U R' U r U2 r' U M'
+3,F R U R' U' F' U2 R' U' F' U F R
+4,M U' r U2 r' U' R U' R2 r
+4,F U R U' R' F' U' F R U R' U' F'
+4,f R U R' d' l' F R U R' U' F'
+4,r R2 U' R U' r' U2 r U' M
+4,l L2 U' L U' l' U2 l U' M'
+4,M' R' U' R U' r' U2 r U' M
+4,M U' r U2 r' U' R U' R' M'
+4,f' L' U' L U f U F' L' U' L U F
+4,f R U R' U' f' r' U' F' U F r
+4,M U' L F2 L' U' R U' R2 r
+4,R U R' F' U2 F R U' R' F U R U' R' F'
+4,F' L' U' L U F U' f R U R' U' f'
+4,l L' U' L F2 L' U' R U' R' M'
+5,R' F2 r U r' F R
+5,F R U R' U' F' U' F R U R' U' F'
+5,L' U' L2 F' L' F2 U' F'
+5,B' R2 F R F' R B
+5,r' U2 R U R' U r
+6,r U2 R' U' R U' r'
+6,l U2 L' U' L U' l'
+6,R U R2 F R F2 U F
+7,F R' F' R U2 R U2 R'
+7,L' U2 L U2 L F' L' F
+7,l U L' U L U2 l'
+7,r U r' U R U' R' r U' r'
+7,l' U2 L U2 l F' L' F
+7,R U2 L' U2 L U2 R' L F' L' F
+8,r' U' R U' R' U2 r
+8,R U2 R' U2 R' F R F'
+8,R' F' r U' r' F2 R
+8,F' L F L' U2 L' U2 L
+8,r' U' r U' R' U R r' U r
+8,r U2 R' U2 r' F R F'
+8,B' R' F R' F' R2 B
+9,r' R2 U2 R' U' R U' R' U' M'
+9,R' U' R U' R' U R' F R F' U R
+9,L' U' L U' L F' L' F L' U2 L
+9,R U2 r R2 U' R U' R' U M
+9,F' U' F r U' r' U r U r'
+9,R U2 R' M' U' R U' R' U M
+9,R' U' F' U F U' R U' R' U2 R
+9,R' U' R U' R B' R' B R' U2 R
+9,M' U' R U2 R' U' R U' R' U' M
+9,F R' F' R U2 R U' R' U R U' R' U R U2 R'
+9,f' L' U' L U f U' L' U' L U' L' U2 L
+10,L' U' L U L F' L2 U' L U F
+10,M U R' U2 R U R' U R U M'
+10,F U F' R' F R U' R' F' R
+10,r R2 U2 R U R' U R U M
+10,F U R U' R' d R' U R U2 R'
+10,L' U2 L M' U L' U L U' M
+10,r U R' U R U' R' U' r' R U R U' R'
+10,F' L F L' U2 L' U L U' L' U L U' L' U2 L
+10,R' U2 R M U R' U R U' M'
+10,R' U2 R2 r' U R' U R U' M'
+10,R' U' R U R U R' U' R' F R F' R' U R
+10,R U R2 F' U' F R2 U' R2 U2 R
+10,R' U' R U F R U R' U' F' R' U R
+11,r' R2 U R' U R U2 R' U M'
+11,y2 r U R' U R' F R F' R U2 r'
+11,y F' L' U' L U F U F R U R' U' F'
+11,y F' L' U' L U F U' F' L' U' L U F
+11,y2 M' U2 R U R' U R U2 R' U' M
+11,y F R U R' U' F' U r U R' U R U2 r'
+11,y2 M' L U L' U L U2 L' U M
+11,y2 F R2 D R' U R D' R2 U' R U R' U' F'
+11,y2 M' R' U' R U' R' U2 R U' r' R
+11,M L' U' L U' L' U2 L U' M'
+11,y2 L' U L U' F U F' U2 L' U' L U' L' U' L
+11,r2 F2 r U2 R U2 r' F2 r2 B' R' B
+12,y' M' R' U' R U' R' U2 R U' M
+12,y' r R2 U' R U' R' U2 R U' R r'
+12,y M U2 R' U' R U' R' U2 R U M'
+12,y l L2 U' L U' L' U2 L U' M'
+12,y M L' U' L U' L' U2 L U' M'
+12,y' l' U' L U' L F' L' F L' U2 l
+12,y' R U R2 D' R U' R' D R2 U' R2 F R F'
+12,y r' U' R U' l U' R' U l' U2 r
+12,y' r R2 U' R U' R' U2 R U' M
+12,y2 M' U R' U' R U' R' U2 R U M
+12,y2 F U R U2 R' U R U R' U R U' R' F'
+12,F R U R' d' L' F R U R' U' F'
+12,y' R U' R' U F' U' F U2 R U R' U R U R'
+12,y' R' F' r U' r U' r' F L' U2 l
+12,y2 r U R' U F2 r U r' F U2 M
+13,F U R U2 R' U' R U R' F'
+13,F U R U' R2 F' R U R U' R'
+13,L F' L' U' L F L' F' U F
+13,y2 f R U R2 U' R' U R U' f'
+13,y R U' L' U R' U2 L U L F' L' F
+13,y2 l U' l' U' l U l' f' L f
+13,y2 R' U' R U' r U R2 U R2 U2 r'
+14,F' U' r' F r2 U r' U' r' F r
+14,l' U l U l' U' l F U' F'
+14,F' U' L' U2 L U L' U' L F
+14,F' U' L' U L2 F L' U' L' U L
+14,r U R' U' r' F R2 U R' U' F'
+14,R U R' U r' U' R2 U' R2 U2 r
+14,R' F R U R' F' R b L' b'
+14,y2 r' U r U r' U' r f R' f'
+14,y' L' U R U' L U2 R' U' R' F R F'
+14,R' U' R F U R U' R' F' U' R' U R
+14,F R U R' U' F2 r U R' U' r' F R
+14,y' L' U R U' L U2 R' U' R' F R F'
+14,y2 B' U' R' U2 R U R' U' R B
+14,R U2 R' U2 R U' R' F' U' F R U R'
+14,y' R' U' R F U R U' R' F' U' R' U R
+15,y2 l' U' l L' U' L U l' U l
+15,r' U' r R' U' R U r' U r
+15,r' U' M' U' R U r' U r
+15,y' R' U2 R U R' F U R U' R' F' R
+15,y2 l' U' M U' L U l' U l
+15,y2 R U2 R' U' R U R' U' R U R' U2 R' F R F'
+15,y2 l' U' l L' U' L U R' F R
+16,r U M U R' U' r U' r'
+16,y2 l U l' L U L' U' l U' l'
+16,y2 R' F R U R' U' F' R U' R' U2 R
+16,R U R' U' R' U' R U R U' r' U' R' U r
+16,y2 F R U R' U' F' R U2 R' U' R U' R'
+16,L F L' R U R' U' L F' L'
+17,y2 F R' F' R2 r' U R U' R' U' M'
+17,f R U R' U' f' U' R U R' U' R' F R F'
+17,R' F R U' M' U2 r' U' F' U R
+17,y2 F U R U' R' F' U R U R' U' R' F R F'
+17,y2 r U' r' F U2 F U' R U' R' F'
+17,y2 L F' L' F U2 F U' R U' R' F'
+17,y2 R U2 r' U' R U M' R' F2 r U r' F
+17,y F U R U' R' U' R' F R F' R U R' F'
+18,y R U2 R2 F R F' U2 M' U R U' r'
+18,y2 F R U R' d R' U2 R' F R F'
+18,F R' F' R U2 F R' F' R U' R U' R'
+18,l' U' r' U2 L U2 L' U2 r U l
+18,L F R U2 R' U2 R U2 R' F' L'
+18,y2 R U R' U R' F R F' U2 r R' U R U' r'
+18,y R U2 R' F' L' U2 L F R U2 R'
+18,y' F R U R' U' F' f U R U' R' U R U' R' f'
+18,y' F R U' R' U' R U R' F' U' F R U R' U' F'
+18,y' F R U R' U' F' U2 F R U R' U' R U R' U' F'
+18,y2 R2 D' r U r' D R2 r' U r U' r' U' r
+18,y2 r' U' R U' R' U2 r2 U R' U R U2 r'
+18,r' D R U R U R' U2 R' D' R U M'
+19,r' R U R U R' U' r R2 F R F'
+19,r' U2 R U R' U r2 U2 R' U' R U' r'
+19,R' U2 F R U R' U' F2 U2 F R
+19,F R U R' U' F' R U2 R2 F R F' R U2 R'
+19,y F R U' R' F R' F' R U R U R' U' F'
+19,M U R U R' U' r R2 F R F'
+19,y R' U' F U r U2 r' R U R' F' R
+19,y2 r U2 R' U' R U' r2 U2 R U R' U r
+19,R' U2 R f U R' F R2 F' U' f'
+19,y R' U' F' U F2 R U R' U' F' U R
+19,y2 F U R U' R2 F' U' F U R U' F'
+19,M U R U R' U' M2 U R U' r'
+19,y' R U R' U' R' F R F' U' F' L' U' L U L' U' L U F
+19,r' R U R U R' U' M' R' F R F'
+20,M' U M' U M' U M' U' M' U M' U M' U M'
+20,M' U2 M U2 M' U M U2 M' U2 M
+20,r' R U R U R' U' r2 R2 U R U' r'
+20,M' U' R' U' R U M2 U' R' U r
+20,M' U' M' U' M' U' M' U M' U' M' U' M' U' M'
+20,M' U' M' U' M' U' M' U' M U' M U' M U' M
+20,M' U2 M U2 M' U' M U2 M' U2 M
+20,r' u M2 u' r U2 r' u M2 u' r
+20,M U' M U' M U' M U' M' U' M' U' M' U' M'
+20,F R' F R2 U R' U' F2 U' r U' r' F
+20,r' R U R U R' U' M2 U R U' r'
+20,M U M' U2 M U M' U M U M' U2 M U M'
+20,M' U M' U M' U M2 U' M' U' M' U' M'
+20,M' U M' U M' U M' U M U M U M U M
+20,M' U M U2 M' U M U M' U M U2 M' U M
+20,M U M U2 M U' M2 U M U2 M U' M
+20,F U R U' R' F' U2 R' U' R' F R F' U R
+21,R U R' U R U' R' U R U2 R'
+21,R' U' R U' R' U R U' R' U2 R
+21,F R U' R' U R U2 R' U' R U R' U' F'
+21,R U R' U R U L' U R' U' L
+21,y F U R U' R' U R U' R' U R U' R' F'
+21,y R' U2 R U R' U' R U R' U R
+21,y L' U2 L2 F' U L2 U L2 U' F U' L'
+21,y F' L' U' L U L' U' L U L' U' L U F
+21,y f R U R' U' R U R' U' R U R' U' f'
+21,L U L' U L U R' U L' U' R
+22,f R U R' U' f' F R U R' U' F'
+22,R' U2 R2 U R2 U R2 U2 R'
+22,R U2 R2 U' R2 U' R2 U2 R
+22,y2 L' U2 L2 U L2 U L2 U2 L'
+22,R U' L' U R' U L U L' U L
+22,R U R' U' R' F R2 U R' U' R U R' U' F'
+22,L' U R U' L U' R' U' R U' R'
+22,y R U R' U R U2 R' U R U R' U R U2 R'
+22,R U R2 U' R2 U R2 U R2 U' R2 U R
+22,y2 L U' R' U L' U R U R' U R
+22,R U2 R2 U' R U' R' U2 R U R U' R'
+22,R U R' U R' F R2 U' R' U' R U R' F' U R U' R'
+22,R U2 R' U' R U R' U2 r' F R F' M'
+22,R U2 R' U' R U' R' U' R U2 R' U' R U' R'
+22,R U2 R' U' R U R' U2 L' U R U' R' L
+22,R U R' U R U2 R' U' R U R' U R U2 R'
+23,y R U R' U' R U' R' U2 R U' R' U2 R U R'
+23,R U R' U R U2 R2 U' R U' R' U2 R
+23,y2 R' U2 R F U' R' U' R U F'
+23,y2 R' F R U' R' U' R U R' F' R U R' U' R' F R F' R
+23,L2 D' L U2 L' D L U2 L
+23,y2 R' U' R U' R' U2 R2 U R' U R U2 R'
+23,y2 R2 D' R U R' D R U R U' R' U' R
+23,R U2 R' B' U R U R' U' B
+23,y2 R' U2 R U2 R' F' R U R' U' R' F R2
+23,y' R U2 R' U' R U' R' L' U2 L U L' U L
+23,y R U R' U' R U R' U' L' U R U' R' U R U' R' L
+23,y2 R U R' U' R' F2 R2 U' R' U' R U R' F2
+23,y' F2 u' R U2 R' D R U2 R
+23,y2 l U' R' D R U2 R' D' R U' l'
+23,y2 R U R' U2 F U' F' U' R U' R' F U' F'
+23,y r U R' U' M U R U' R' F R U R' U' F'
+23,y F R U R' U' R U R' U' F' U2 F R U R' U' F'
+23,R2 B2 U2 L U2 R' U2 R U2 F2 R F2 L' B2 R2
+24,L F R' F' L' F R F'
+24,y2 R' F' r U R U' r' F
+24,R U R2 U' R2 U' R2 U2 R U' R U' R'
+24,y R U R D R' U' R D' R2
+24,y' F U' R' U' R U F' U' R' U R
+24,y' R U' R' U2 L R U' R' U L'
+24,y R' U R U2 L' R' U R U' L
+24,F R F' r U R' U' r'
+24,R U R' U R U2 R' U2 R' U' R U' R' U2 R
+24,y' R U' R' U2 R U R' U2 R U R' U R U' R'
+24,y R' F' R U R' U' R' F R U R
+24,y R U2 R' U' R U' R' U R U R' U R U2 R'
+24,y' R' U' R' D' R U R' D R2
+24,y2 R' F' L F R F' L' F
+25,y F' r U R' U' r' F R
+25,F R' F' r U R U' r'
+25,y2 R U2 R' U' R U R' U' R U R' U' R U' R'
+25,l' U R D' R' U' l B
+25,y2 R' F' L' F R F' L F
+25,L' R U R' U' L U R U' R'
+25,R' F R U R' U' R' F' R U R
+25,R U2 R D R' U2 R D' R2
+25,y2 R U R' U R U' R' U R U' R' U R U2 R'
+25,y2 R2 D' R U' R' D R U R
+25,F R U' R' U' R U2 R' U' F'
+25,y' R' F' R U R' U' R' F R2 U' R' U2 R
+25,y R2 D R' U R D' R' U' R'
+25,F l' U' L U R U' r'
+25,y2 F R U' R' U' R U2 R' U' F'
+25,y' R' U2 R' D' R U2 R' D R2
+25,y' L F R F' L' F R' F'
+25,y2 F R B R' F' R B' R'
+25,y' R U R' F' r U R U' r' F U' R'
+25,f R U' R' U f' L' U L
+26,R' U' R U' R' U2 R
+26,y2 L' U' L U' L' U2 L
+26,y2 L' U R U' L U R'
+26,R' U L U' R U L'
+27,y' R' U2 R U R' U R
+27,y L' U2 L U L' U L
+27,R U' L' U R' U' L
+27,y2 L U L' U L U2 L'
+27,y2 L U' R' U L' U' R
+27,L' U2 L U2 l F' L' F M'
+27,M F R' F' r U2 R U2 R'
+27,U L' U2 L U L' U L
+28,y2 M' U M U2 M' U M
+28,y' M' U' M U2 M' U' M
+28,M U M' U2 M U M'
+28,r U R' U' r' R U R U' R'
+28,y M U' M' U2 M U' M'
+28,y' r' U' R U M' U' R' U R
+28,r U R' U' r' F R2 U' R' U' R U R' F'
+28,F R U R' U' F2 L' U' L U F
+29,M U R U R' U' R' F R F' M'
+29,r2 D' r U r' D r2 U' r' U' r
+29,y2 R' F R F' R U2 R' U' F' U' F
+29,y F R U R' U' F' U2 R U R' U' R' F R F'
+29,y' R U2 R2 F R F' R U' R' U R U2 R'
+29,y2 R2 U' R F R' U R2 U' R' F' R
+29,L2 U' L B L' U L2 U' r' U' r
+29,y r U R' U' R r2 F R F' M'
+29,y M' U' L' U l U2 r2 F r U' r
+29,y2 r U2 R' U' R U' r' R' U2 R U R' U R
+29,f U' R' U2 R' U2 R2 U R' f'
+29,y2 R' F R F' U R U R' d R' U R
+29,y F R U R' U' F' L' U' L U L F' L' F
+29,y2 F R' U' R2 U' R2 U2 R U' F'
+29,y2 R' U f R U R' U' f' R U R' U R
+29,y l D l' U l D' l2 U l U' l' U' l
+29,y2 M' U' R U R' U' R' F R F' U2 M
+29,B' R B' R2 U R U R' U' R B2
+30,y' r' D' r U' r' D r2 U' r' U r U r'
+30,y2 F R' F R2 U' R' U' R U R' F2
+30,M U' L' U' L U L F' L' F M'
+30,R2 U R' B' R U' R2 U R B R'
+30,f R U R2 U' R' U R2 U' R' f'
+30,R U2 R' F2 r U2 R' U' r' F R
+30,y2 r2 D r' U' r D' r2 U r U r'
+30,y' F' L' U' L U F R U R' U' R' F R F'
+30,y' R' F' r U r' R2 U' r' F M'
+30,l2 D l' U' l D' l2 U l U l'
+30,y' L' U' L U L' U L F U F' L' U' L
+30,r' U2 R U R' U r R U2 R' U' R U' R'
+30,y' M' U R U' r' U2 l2 F' l' U l'
+30,y2 L F' L' F U' L' U' L U' F U' F'
+30,y' r U2 R2 F R F' R U' R' U R U2 r'
+30,R' U R U' R' U R B U B' R' U' R
+30,R U R' F' R U2 R' U' R U' R' U F R U' R'
+31,y' F R' F' R U R U R' U' R U' R'
+31,y2 r' F' U F r U' r' U' r
+31,y2 L' d' R d L U' r' U' r
+31,y2 F R' F' R U2 R' F R F' R U2 R'
+31,y' M' U' L' U' L U L F' L' F U M
+31,y R U R' F' L' U' L F
+32,y2 L U F' U' L' U L F L'
+32,R d L' d' R' U l U l'
+32,y' F' L F L' U' L' U' L U L' U L
+32,y2 F U R U' F' r U R' U' r'
+32,R U2 R' U' F' U F R U' R'
+32,y' F R' F' r U R U R' U' R U' r'
+32,y' M' U R U R' U' R' F R F' U' M
+32,y2 r' D r U' R U R' U r' D' r
+32,F U' R U R2 D' R U2 R' D R U' F'
+32,y' F' r U r' U' r' F' r U r' F r
+32,F U R' D' R U' R' D R U R U' R' F'
+32,R2 F R F' U' R U' R' U' R U R' U R
+32,F U' R U R2 D' R U' R' D R U2 F'
+33,F R U' R' U R U R' F'
+33,y2 L' U' L U L F' L' F
+33,y' r' U' r' D' r U r' D r2
+33,R U R' F2 L F L' U' F
+33,y R U2 R' U' R U' R' U2 R' F2 r U r' F R
+34,y2 R U R2 U' R' F R U R U' F'
+34,F R U R' U' R' F' r U R U' r'
+34,y F' U' F U r U R' U' M
+34,R U2 R' F R U R' U' F' U R U R'
+34,y2 R U R' d' l' U' L U M
+34,y2 R U' R' F' U' R U R' U R U2 R' F R U' R'
+34,y R' U' R' F R F' R U' R' U R U' R' U2 R
+34,F R U R' U' R' F' L F R F' L'
+34,y' R2 D' R U' R' D F R F' U R
+34,y f R f' U' r' U' R U M'
+34,y2 R U2 R2 F R F' R U' R' U' R' F R F'
+35,f R U R' U' f' R U R' U R U2 R'
+35,y' R' U2 R l U' R' U l' U2 R
+35,y' R U2 R' U' R U' R' U2 F R U R' U' F'
+36,y2 R U R' F' R U R' U' R' F R U' R' F R F'
+36,R U R' U' F' U2 F U R U R'
+36,R' U' R U' R' U R U R B' R' B
+36,R U2 r D r' U2 r D' R' r'
+36,y F R' F' R U R U R' U' R U R' U' R U' R'
+36,y2 r' F' r U' r' F r U r U' r' F
+36,y R U R2 F' U' F U R2 U2 R'
+36,F' L' U' L U F U R U R' U' R' F R F'
+36,R U R' U2 F' U' F U' R U' R'
+36,y2 l' U' L U l F' L' U' L' U L F
+36,y2 R U R' F' R U R' F' U' F R U' R' F R U' R'
+36,y2 L' U' L U' r' F r U r U' r' F
+36,y2 R' F' U' F2 U R U' R' F' R
+36,y' f D' R2 U R2 U' R2 D R2 f'
+37,F R' F' R U R U' R'
+37,R' F R F' U' F' U F
+37,y' R U R' F' U F R U' R'
+37,y r U' r' F d R U' R'
+37,y2 r2 D' r U' r' D r U r
+37,y' R U2 R' F R' F' R2 U2 R'
+38,L' U' L F L' U' L U L F' L' U L F' L' F
+38,R' U2 r' D' r U2 r' D R r
+38,y2 R U R' U R U2 R' U F R U R' U' F'
+38,r U R' U R U' R' U' r' F R F'
+38,y2 L U L' U L U' L' U' L' B L B'
+39,y' R U R' F' U' F U R U2 R'
+39,y' R B' R' U' R U B U' R'
+39,R' r' D' r U' r' D r U R
+39,y2 M F R' F' R U R U' R' U' M'
+39,y' r U R U' r' F U R' U' F'
+39,y F R U R' U' F' R' U' R U' R' U2 R
+39,y' l U' l' U' R U B U' R'
+40,R r D r' U r D' r' U' R'
+40,y' F R U R' U' F' R U R' U R U2 R'
+40,y R U R' F' U' F R U R' U' R U' R'
+40,M F' L F L' U' L' U L U M'
+41,y' L F' L' F L F' L' F L' U' L U L' U' L
+41,f R U R' U' f' U' R U R' U R U2 R'
+41,y R U2 R' U' R U' R' U' F R U R' U' F'
+41,y' R U R' U R U' R' U R U' R' U' R' F R F'
+41,y2 F U R U' R' F' R' U2 R U R' U R
+41,r2 R U' F' U F r U' M'
+41,y2 M' R' F' U' F U R U' R r'
+41,L U L' U L U2 L' F' L' U' L U F
+41,y2 F U R2 D R' U' R D' R2 F'
+41,M2 R' U' F' U F r U' M'
+41,y2 L' U L U' F U F' U' L' U L U L' U' L
+41,f R U R' U' f' L' U2 L U L' U L
+42,R' U' R U' R' U2 R F R U R' U' F'
+42,M U F R U R' U' F' M'
+42,R2 r' f R f' U' R' U M'
+42,R' U R U2 R' U' F' U F U R
+42,y2 M' U f U R U' R' f' R r'
+42,y2 L' U' L U' L' U2 L F' L' U' L U F
+42,y R' U2 R U R' U R U F R U R' U' F'
+42,y' L' U2 L U L' U L U' F R U R' U' F'
+42,f' L' U' L U f U' R' U' R U' R' U2 R
+42,y F R' F' R U2 R' U' R2 U' R2 U2 R
+42,y R' F2 r U r' F R2 U2 R' U' R U' R'
+42,y r' U' r R' F R' F' R2 r' U r
+42,R' U' R U F R U R' U' R' U R U' F'
+42,f' L' U' L U f R U2 R' U' R U' R'
+42,y2 R U' R' U F' U' F U R U' R' U' R U R'
+42,y' L' U2 L U L' U L U F' L' U' L U F
+43,y R' U' F' U F R
+43,B' U' R' U R B
+43,y2 R' U' F R' F' R U R
+43,y' r' F' U' F U r
+43,y' R U R' F' U2 F R U' R'
+43,y R' d' L' U L F
+43,y F' L' U L F R U' R'
+43,y' R U R' F' L' U' L F
+44,y' F R U' R' F' L' U L
+44,R U2 R2 F R F' U' R U' R'
+44,y' L d R U' R' F'
+44,y2 r U R B' R' B U' r'
+44,y L' U' L F R U R' F'
+45,y2 F' L' U' L U F
+45,F R2 D R' U R D' R2 U' F'
+45,y R' F' U' F U R
+46,y2 r' F' L' U L U' F r
+46,y F R U R' F' d R U2 R'
+46,y' F R U R2 U' R F' U' R' U2 R
+47,y2 B' R' U' R U R' U' R U B
+47,y' F U R U' R' F' R U R' U R U2 R'
+47,F' r' F' r U r' F' r U F
+47,L' U2 L U L' U' L U2 L F' L' F
+47,y' F R' F' R U2 R U' R' U R U2 R'
+47,y2 f U R' U' f' R' U' R U R' U R
+47,b' U' R' U R U' R' U R b
+47,R U R' U R U' R' U R U2 R' F R U R' U' F'
+47,y' R' F R U R' U' F' R' F R F' U R
+47,y2 f' U f U2 R' U' R U' R2 U2 R
+48,F R U R' U' R U R' U' F'
+48,y2 f U R U' R' U R U' R' f'
+48,R U2 R' U' R U R' U2 R' F R F'
+49,l U' l2 U l2 U l2 U' l
+49,R B' R2 F R2 B R2 F' R
+49,y2 R' F R' F' R2 U2 B' R B R'
+49,y2 F R U R' U' F2 U' L' U L F
+49,y' R' U2 R U R' U R F R U R' U' F'
+49,y F R' F2 R U2 R U2 R' F
+49,y2 r U2 R2 U' R2 U' r' R' U2 R
+49,y F U R U' R' F' R' U' R U' R' U2 R
+49,y R' U' R U' R' U2 R r U2 R' U' R U' r'
+49,y F R' F2 r U2 R U2 r' F
+49,y F' L' U L U L' U' L U' L' U L F
+49,y' B' R' U R U R' U' R U' R' U R B
+50,y2 R' F R2 B' R2 F' R2 B R'
+50,y' R U2 R' U' R U' R' F R U R' U' F'
+50,y2 l' U l2 U' l2 U' l2 U l'
+50,y2 F' L' U' L U F2 U R U' R' F'
+50,R B' R B R2 U2 F R' F' R
+50,R U R2 F R F' U F R' F' R
+50,y l U' R' D R2 U R' U R' D' R U' l'
+50,y R u R' U R' U' R u' R2 U2 R
+50,r' U r2 U' r2 U' r2 U r'
+50,y' R' U2 R U R' U R r U R' U R U2 r'
+50,y2 R' U R U' R2 F R2 U R' U' F' R
+50,y' F R U' R' U' R U R' U R U' R' F'
+50,y' F' r U2 R' U2 r' F2 R F'
+50,y f U R' U' R' U R U' R U R' U' f'
+51,y2 F U R U' R' U R U' R' F'
+51,y' R' U' R' F R F' R U' R' U2 R
+51,y2 f' L' U' L U L' U' L U f
+52,R' U' R U' R' U F' U F R
+52,R' U' R U' R' d R' U R B
+52,y2 R' F' U' F U' R U R' U R
+52,R U R' U R U' f R' f' R'
+52,y' F R U R' d R' U' R U' R'
+52,y2 R' U' F R' F' R F R' F' R U R
+52,y' F U R U' R2 F' R U2 R U2 R'
+52,R U R' U R U' B U' B' R'
+52,R U R' U R U2 R' U' f R U R' U' f'
+52,y2 R' U2 R2 u R' U R U' R u' R'
+52,y' F R U R' U' F' U2 R U R' U R U2 R'
+52,y2 R U2 R' U' R U' R' U' r U2 R' U' R U' r'
+52,y F U R U2 R' U2 R U2 R' U' F'
+52,y2 R U2 R2 U' R U' R' U2 r U R U' r'
+52,R U R' U R U2 R' U F U R U' R' F'
+52,y2 l F U' R U R' U' R U l' U' R'
+52,y' F R U R' U' F' U2 R' U' R U' R' U2 R
+53,r' U' R U' R' U R U' R' U2 r
+53,y r' U2 R U R' U' R U R' U r
+53,y2 F R U R' U' F' R U R' U' R' F R F'
+53,y' l' U2 L U L' U' L U L' U l
+53,y2 R' F' r U' r' F r U' r' F2 R
+53,F' L F L' U2 F2 R' F' R F'
+53,y2 F R U R' U' R U' R' U R U R' F'
+53,y' F R U R' U' R U R' U' F2 U' L' U L F
+53,y2 r U R' U R U L' U R' U' L U M
+53,y r' U' r R' U' R U R' U' R U r' U r
+53,y2 L' U R U' L U' R' U2 R' F R F'
+54,y' r U r' R U R' U' R U R' U' r U' r'
+54,F' L' U' L U L' U L U' L' U' L F
+54,l U L' U L U' L' U L U2 l'
+54,y2 F R' F' R U2 F2 L F L' F
+54,y' F U R U' R' U R U' R' F' f U R U' R' f'
+54,R U' L' U R' U L U2 L F' L' F
+54,y2 B' R' U' R U R' U R U' R' U' R B
+55,y R' F R U R U' R2 F' R2 U' R' U R U R'
+55,r U2 R2 F R F' U2 r' F R F'
+55,y r U2 R' U' R2 r' U R' U' r U' r'
+55,R' U2 R2 U R' U R U2 B' R' B
+55,y R' F R U R' F R U' R' F' R U M' U' M
+55,R' D R2 U' B U2 B' U R2 D' R
+55,y F U' R2 D R' U2 R D' R2 U F'
+55,y R' F U R U' R2 F' R2 U R' U' R
+55,y r U2 R' U' M R U R' U' r U' r'
+55,y R' F U R U' R2 F' R2 U R' U' R
+55,R' d R2 D' R U2 R' D R2 U' B
+56,r U r' U R U' R' U R U' R' r U' r'
+56,r' U' r U' R' U R U' R' U R r' U r
+56,y f R U R' U' f' F R U R' U' R U R' U' F'
+56,r U r' U R U' R' U R U' M' U' r'
+56,r U r' U R U' R' M' U R U2 r'
+56,F R U R' U' F' r U R' U' r' F R F'
+56,F R U R' U' R F' L F R' F' L'
+57,M' U M' U M' U2 M U M U M
+57,R U R' U' r R' U R U' r'
+57,M' U M' U M' U M' U2 M' U M' U M' U M'
+57,M' U' M' U' M' U' M' U2 M' U' M' U' M' U' M'
+57,M' U' M U M' U' M U' M' U2 M
+57,R' U' R U M U' R' U r
+57,M' U' M' U' M' d2 M' U' M' U' M'
+57,L' R U R' U' L R' F R F'
