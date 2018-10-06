@@ -1,0 +1,42 @@
+body {
+  background-color: SlateGray;
+  color: white;
+  font-family: "Arial";
+  width: 100%; /* full window width */
+  text-align:center;
+}
+
+#scramble{
+  font-size: 3em;
+}
+
+/*
+#time{
+  font-size: 10em;
+} */
+
+#timerTable {
+  text-align: right;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+#seconds {
+  display: inline;
+  font-size: 10em;
+}
+
+#decimal{
+  display: inline;
+  font-size: 7.5em;
+}
+
+#deciseconds {
+  display: inline;
+  font-size: 7.5em;
+}
+
+#centiseconds {
+  display: inline;
+  font-size: 7.5em;
+}
